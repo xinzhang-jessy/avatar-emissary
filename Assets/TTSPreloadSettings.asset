@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80be64a601ff65e41b0a8036ba872084, type: 3}
+  m_Name: TTSPreloadSettings
+  m_EditorClassIdentifier: 
+  data:
+    voices:
+    - presetVoiceID: REBECCA
+      phrases:
+      - clipID: 5c47a5a5a9aa4443ec9edebfbd79dd2945b582f807b2b177c7289febffeb9380
+        textToSpeak: Option one is do the breathing and try to calm down. Option
+          tow is let me tell you a story and do the focus changing.
+        downloaded: 1
+        downloadProgress: 0
+      - clipID: ad969afeb6a5f30a9047c3a6d6e86cb335932000611bc057032536c858605e1a
+        textToSpeak: Hello, nice to meet you. What can I do for you?
+        downloaded: 1
+        downloadProgress: 0
+      - clipID: 7f468ff0031f0865017d4454f1d973f86b746ac5cc5d1edad2057b81cc3518d4
+        textToSpeak: Perfect, I have two options. Which one would you like to try?
+        downloaded: 1
+        downloadProgress: 0
+      - clipID: 1667fabd78e0daa0159498f2360f179ee912e11b76aa81ab28e93c7d9fb34c7f
+        textToSpeak: Option one is do the breathing and try to calm down.
+        downloaded: 1
+        downloadProgress: 0
+      - clipID: 8e00deb06815db9e36a5bbe2cb16a5ab7decde64a343a5ac55b2b0481f44fd59
+        textToSpeak: Option two is let me tell you a story and do the focus changing.
+        downloaded: 1
+        downloadProgress: 0
+      - clipID: 77b9b876fb7813d2384366c963be627043eb1c9f7e94277e6bd0866965e94251
+        textToSpeak: Perfect, I have two options, Which one would you like to try?
+        downloaded: 1
+        downloadProgress: 0
+      - clipID: 33814eafc0e0d391f9368f9406b38013c728dba958ea085dcded828aec70b3dd
+        textToSpeak: That's fine if you don't want to try these ways, but I would
+          like to suggest you do something to transfer the focus.
+        downloaded: 1
+        downloadProgress: 0
+      - clipID: daf74ff5659232927117d4230ed9fd80b9603e95470bdb18344b8035c4487f5c
+        textToSpeak: Now that's the end of this timeout.
+        downloaded: 1
+        downloadProgress: 0
+      - clipID: 36dbd6108b4b62aba3fc3a652f14671e895529c5be057552f2d986ce7c874823
+        textToSpeak: ok, let's do breathing and calm down
+        downloaded: 1
+        downloadProgress: 0
+      - clipID: 1643ca044c48be952efdfd4d9e149d923ddfd629a49df4954bdc0f0984219b17
+        textToSpeak: Hello Jimmy, I am a virtual assistant here to help with the
+          timeout process.
+        downloaded: 1
+        downloadProgress: 0
